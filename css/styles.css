@@ -188,7 +188,6 @@ a {
 .img-site {
     width: 100%;
     height: 100px;
-    background-image: url(image/site.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -196,7 +195,7 @@ a {
 }
 
 .img-site img {
-    width: 50%;
+    width: 100%;
 }
 
 /* Redes sociais */
